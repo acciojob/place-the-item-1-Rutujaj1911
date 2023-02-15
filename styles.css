@@ -8,9 +8,9 @@
 	font-sixe:40px;
 	
 }
-.container{
+.holder{
 	display:flex;
-	flex-wrap:wrap;
+	flex-holder;
 	flex-direction:row;
 	justify-content:space-between;
 }
