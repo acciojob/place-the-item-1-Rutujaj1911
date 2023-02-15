@@ -10,7 +10,7 @@
 }
 .holder{
 	display:flex;
-	flex-holder;
+	flex-wrap:wrap;
 	flex-direction:row;
 	justify-content:space-between;
 }
